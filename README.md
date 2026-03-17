@@ -20,7 +20,7 @@
 > Built with clean design and responsive layout  
 > Continuously updated with my latest work  
 
-🔗 https://vivekboyinaportfolio.vercel.app/
+🔗 [View](https://vivekboyinaportfolio.vercel.app/)
 
 ---
 
@@ -30,7 +30,7 @@
 > Displays real-time updates with a minimal UI  
 > Helps understand DOM manipulation and timing functions  
 
-🔗 [Click Here](https://vivekboyina.github.io/Digital-Clock/)
+🔗 [View](https://vivekboyina.github.io/Digital-Clock/)
 
 ---
 
@@ -65,9 +65,9 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/boyina-veera-venkata-vivek
-- 🌐 Portfolio: https://vivekboyinaportfolio.vercel.app/
-- 📧 Email: vivekboyina77@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/boyina-veera-venkata-vivek)
+- 🌐 [Portfolio](https://vivekboyinaportfolio.vercel.app/)
+- 📧 [Email](vivekboyina77@gmail.com)
 
 ---
 
