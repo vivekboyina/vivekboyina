@@ -8,11 +8,11 @@
 - 🎓 Student learning **Full Stack Development**
 - ⚡ Focused on building **real-world projects**
 - 🚀 Currently improving my skills in **JavaScript & React**
-- 🚀 Goal: Build impactful products & crack top tech opportunities
+- 🛠️ Goal: Build impactful products & crack top tech opportunities
 
 ---
 
-## ⏰ Featured Project
+## 🛠️ Featured Project
 
 ## 🌐 Portfolio
 
@@ -24,7 +24,7 @@
 
 ---
 
-### Digital Clock
+## ⏰ Digital Clock
 
 > A simple and clean digital clock built using JavaScript  
 > Displays real-time updates with a minimal UI  
@@ -54,6 +54,15 @@
 
 ---
 
+## 💻 Coding Profiles
+
+- 🟡 LeetCode → [View](https://leetcode.com/vivekboyina/)  
+- 🟢 GeeksforGeeks → [View](https://www.geeksforgeeks.org/user/vivekboyina/)  
+- 🔵 Codeforces → [View](https://codeforces.com/profile/vivekboyina)
+- 🍽️ CodeChef → [View](https://www.codechef.com/users/vivek_7_7)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -77,4 +86,4 @@
 
 ---
 
-⭐️ From https://github.com/vivekboyina
+Made with ❤️ by [Vivek](https://github.com/vivekboyina)
