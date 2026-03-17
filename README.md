@@ -40,6 +40,8 @@
 - JavaScript (Core + Advanced)
 - HTML5, CSS3
 - SQL
+- C++
+- Java
 
 ### ⚙️ Technologies & Tools
 - React (Learning)
