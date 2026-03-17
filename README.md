@@ -40,7 +40,6 @@
 ### ⚙️ Technologies & Tools
 - React (Learning)
 - Git & GitHub
-- Chrome Extensions API
 - REST APIs
 - MySQL
 
