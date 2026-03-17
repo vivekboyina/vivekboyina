@@ -65,9 +65,9 @@
 
 ## 🤝 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/boyina-veera-venkata-vivek)
-- 🌐 [Portfolio](https://vivekboyinaportfolio.vercel.app/)
-- 📧 [Email](vivekboyina77@gmail.com)
+- 💼 LinkedIn: [View](www.linkedin.com/in/boyina-veera-venkata-vivek)
+- 🌐 Portfolio: [View](https://vivekboyinaportfolio.vercel.app/)
+- 📧 Email: [Mail](vivekboyina77@gmail.com)
 
 ---
 
