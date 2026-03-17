@@ -30,7 +30,7 @@
 > Displays real-time updates with a minimal UI  
 > Helps understand DOM manipulation and timing functions  
 
-🔗 [https://YOUR-DIGITAL-CLOCK-LINK](https://vivekboyina.github.io/Digital-Clock/)
+🔗 Click Here(https://vivekboyina.github.io/Digital-Clock/)
 
 ---
 
