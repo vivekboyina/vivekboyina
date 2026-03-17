@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vivek</h1>
+<h1 align="center">Hi 👋, I'm Vivek Boyina</h1>
 <h3 align="center">Aspiring Full Stack Developer</h3>
 
 ---
@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekboyina&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekboyina&theme=tokyonight" />
 </p>
 
 ---
