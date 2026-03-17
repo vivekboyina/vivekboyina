@@ -12,21 +12,25 @@
 
 ---
 
+## ⏰ Featured Project
+
 ## 🌐 Portfolio
+
+> A personal portfolio website to showcase my projects and skills  
+> Built with clean design and responsive layout  
+> Continuously updated with my latest work  
 
 🔗 https://vivekboyinaportfolio.vercel.app/
 
 ---
 
-## ⏰ Featured Project
-
 ### Digital Clock
 
-> A simple and clean digital clock built using JavaScript
+> A simple and clean digital clock built using JavaScript  
+> Displays real-time updates with a minimal UI  
+> Helps understand DOM manipulation and timing functions  
 
-- Real-time time updates
-- Clean UI
-- Built using core JavaScript concepts
+🔗 [https://YOUR-DIGITAL-CLOCK-LINK](https://vivekboyina.github.io/Digital-Clock/)
 
 ---
 
