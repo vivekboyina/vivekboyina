@@ -44,7 +44,6 @@
 - Java
 
 ### ⚙️ Technologies & Tools
-- React (Learning)
 - Git & GitHub
 - REST APIs
 - MySQL
