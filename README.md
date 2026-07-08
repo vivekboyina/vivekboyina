@@ -1,90 +1,148 @@
-<h1 align="center">Hi 👋, I'm Vivek Boyina</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Vivek%20Boyina&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-## 👨‍💻 About Me
+<a href="https://vivekboyinaportfolio.vercel.app/">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+real-world+projects+%F0%9F%9A%80;Learning+JavaScript+%26+React+%E2%9A%A1;Turning+ideas+into+code+%F0%9F%92%BB;Always+shipping%2C+always+learning+%F0%9F%94%A5&font=Fira+Code&center=true&width=600&height=45&color=8b5cf6&vCenter=true&size=22" alt="Typing SVG" />
+</a>
 
-- 🎓 Student learning **Full Stack Development**
-- ⚡ Focused on building **real-world projects**
-- 🚀 Currently improving my skills in **JavaScript & React**
-- 🛠️ Goal: Build impactful products & crack top tech opportunities
+</div>
 
----
+<br/>
 
-## 🛠️ Featured Project
+## 🧭 About Me
 
-## 🌐 Portfolio
+```javascript
+const vivek = {
+  role: "Full Stack Developer (in progress)",
+  currentFocus: ["JavaScript", "React", "System Design basics"],
+  goal: "Build impactful products & crack top tech opportunities",
+  philosophy: "Solve real problems, not just tutorials",
+};
+```
 
-> A personal portfolio website to showcase my projects and skills  
-> Built with clean design and responsive layout  
-> Continuously updated with my latest work  
+<br/>
 
-🔗 [View](https://vivekboyinaportfolio.vercel.app/)
+## 🚀 Featured Work
 
----
+<table>
+<tr>
+<td width="50%">
 
-## ⏰ Digital Clock
+### 🌐 Portfolio
+A personal site showcasing my projects with a clean, responsive design — continuously updated with the latest builds.
 
-> A simple and clean digital clock built using JavaScript  
-> Displays real-time updates with a minimal UI  
-> Helps understand DOM manipulation and timing functions  
+**Stack:** HTML · CSS · JS
 
-🔗 [View](https://vivekboyina.github.io/Digital-Clock/)
+[🔗 Live Demo](https://vivekboyinaportfolio.vercel.app/)
 
----
+</td>
+<td width="50%">
+
+### ⏰ Digital Clock
+A minimal real-time digital clock — a hands-on exercise in DOM manipulation, timers, and clean UI.
+
+**Stack:** JavaScript · HTML · CSS
+
+[🔗 Live Demo](https://vivekboyina.github.io/Digital-Clock/)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
-- JavaScript (Core + Advanced)
-- HTML5, CSS3
-- SQL
-- C++
-- Java
+<div align="center">
 
-### ⚙️ Technologies & Tools
-- Git & GitHub
-- REST APIs
-- MySQL
+**Languages**
 
-### 🤖 Interests
-- AI Tools & Automation
-- Web Performance Optimization
-- Product Building
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
+**Tools & Tech**
 
-## 💻 Coding Profiles
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🟡 LeetCode → [View](https://leetcode.com/vivekboyina/)  
-- 🟢 GeeksforGeeks → [View](https://www.geeksforgeeks.org/user/vivekboyina/)  
-- 🔵 Codeforces → [View](https://codeforces.com/profile/vivekboyina)
-- 🍽️ CodeChef → [View](https://www.codechef.com/users/vivek_7_7)
+**Interests**
 
----
+![AI](https://img.shields.io/badge/AI%20%26%20Automation-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Performance](https://img.shields.io/badge/Web%20Performance-orange?style=for-the-badge&logo=speedtest&logoColor=white)
+![Product](https://img.shields.io/badge/Product%20Building-6366f1?style=for-the-badge)
 
-## 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekboyina&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekboyina&theme=tokyonight" />
-</p>
+<br/>
 
----
+## 🏆 Coding Profiles
 
-## 🤝 Connect With Me
+<div align="center">
 
-- 💼 LinkedIn: [View](https://www.linkedin.com/in/boyina-veera-venkata-vivek)
-- 🌐 Portfolio: [View](https://vivekboyinaportfolio.vercel.app/)
-- 📧 Email: [Mail](mailto:vivekboyina77@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vivekboyina/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vivekboyina/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vivekboyina)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vivek_7_7)
 
----
+</div>
 
-## ⚡ Fun Fact
+<br/>
 
-> I focus on building things that actually solve problems — not just tutorial projects.
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-Made with ❤️ by [Vivek](https://github.com/vivekboyina)
+<img src="https://github-readme-stats.vercel.app/api?username=vivekboyina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekboyina&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=vivekboyina&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+> 💡 **Fix applied:** the old streak-stats badge pointed to `herokuapp.com`, which stopped working after Heroku discontinued free dynos. It now points to the actively maintained mirror, `streak-stats.demolab.com`. If the top two cards still don't render, double check that `vivekboyina` is your exact (case-sensitive) GitHub username.
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/vivekboyina/vivekboyina/output/github-contribution-grid-snake.svg" width="80%"/>
+</div>
+
+> ⚙️ This animation needs a tiny one-time setup — a GitHub Action that regenerates the SVG daily. Ask me and I'll walk you through adding the workflow file; until then this image just won't display.
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boyina-veera-venkata-vivek)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekboyinaportfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekboyina77@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⚡ Fun Fact
+*"I focus on building things that actually solve problems — not just tutorial projects."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer"/>
+
+**Made with ❤️ by [Vivek](https://github.com/vivekboyina)**
+
+</div>
