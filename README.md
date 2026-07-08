@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Vivek%20Boyina&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://vivekboyinaportfolio.vercel.app/">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+real-world+projects+%F0%9F%9A%80;Learning+JavaScript+%26+React+%E2%9A%A1;Turning+ideas+into+code+%F0%9F%92%BB;Always+shipping%2C+always+learning+%F0%9F%94%A5&font=Fira+Code&center=true&width=600&height=45&color=8b5cf6&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+projects+%F0%9F%9A%80;Learning+JavaScript+%26+React+%E2%9A%A1;Turning+ideas+into+code+%F0%9F%92%BB;Always+shipping%2C+always+learning+%F0%9F%94%A5&font=Fira+Code&center=true&width=600&height=45&color=8b5cf6&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
 </div>
