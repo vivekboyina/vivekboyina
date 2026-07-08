@@ -97,18 +97,14 @@ A minimal real-time digital clock — a hands-on exercise in DOM manipulation, t
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vivekboyina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekboyina&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vivekboyina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekboyina&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=vivekboyina&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
-> 💡 **Fix applied:** the old streak-stats badge pointed to `herokuapp.com`, which stopped working after Heroku discontinued free dynos. It now points to the actively maintained mirror, `streak-stats.demolab.com`. If the top two cards still don't render, double check that `vivekboyina` is your exact (case-sensitive) GitHub username.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vivekboyina&theme=tokyonight&hide_border=true"/>
+</p>
 
 <br/>
 
