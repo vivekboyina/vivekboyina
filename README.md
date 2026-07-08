@@ -123,36 +123,6 @@ A minimal real-time digital clock — a hands-on exercise in DOM manipulation, t
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vivekboyina&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)](https://github.com/vivekboyina)
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vivekboyina&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vivekboyina/vivekboyina/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
