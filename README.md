@@ -97,26 +97,61 @@ A minimal real-time digital clock — a hands-on exercise in DOM manipulation, t
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vivekboyina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekboyina&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vivekboyina&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekboyina&theme=tokyonight" width="100%" />
 
-<br/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekboyina&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekboyina&theme=tokyonight" width="48%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivekboyina&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivekboyina&theme=tokyonight&utcOffset=5.5" width="48%" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Vivek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekboyina&theme=tokyo-night&hide_border=true)](https://github.com/vivekboyina)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vivekboyina&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)](https://github.com/vivekboyina)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=vivekboyina&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/vivekboyina/vivekboyina/output/github-contribution-grid-snake.svg" width="80%"/>
+
+<img src="https://raw.githubusercontent.com/vivekboyina/vivekboyina/output/github-contribution-grid-snake.svg" width="100%" />
+
 </div>
-
-> ⚙️ This animation needs a tiny one-time setup — a GitHub Action that regenerates the SVG daily. Ask me and I'll walk you through adding the workflow file; until then this image just won't display.
-
-<br/>
 
 ## 🤝 Let's Connect
 
