@@ -95,34 +95,6 @@ A minimal real-time digital clock — a hands-on exercise in DOM manipulation, t
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekboyina&theme=tokyonight" width="100%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivekboyina&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivekboyina&theme=tokyonight" width="48%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vivekboyina&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vivekboyina&theme=tokyonight&utcOffset=5.5" width="48%" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Vivek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vivekboyina&theme=tokyo-night&hide_border=true)](https://github.com/vivekboyina)
-
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
