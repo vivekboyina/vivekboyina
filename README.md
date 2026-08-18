@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Vivek%20Boyina&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,100:10B981&height=200&section=header&text=Vivek%20Boyina&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://vivekboyinaportfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+projects+%F0%9F%9A%80;Learning+JavaScript+%26+React+%E2%9A%A1;Turning+ideas+into+code+%F0%9F%92%BB;Always+shipping%2C+always+learning+%F0%9F%94%A5&font=Fira+Code&center=true&width=600&height=45&color=8b5cf6&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+projects+%F0%9F%9A%80;Learning+JavaScript+%26+React+%E2%9A%A1;Turning+ideas+into+code+%F0%9F%92%BB;Always+shipping%2C+always+learning+%F0%9F%94%A5&font=Fira+Code&center=true&width=600&height=45&color=10B981&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
 </div>
@@ -27,9 +27,11 @@ const vivek = {
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🌐 Portfolio
+
 A personal site showcasing my projects with a clean, responsive design — continuously updated with the latest builds.
 
 **Stack:** HTML · CSS · JS
@@ -37,9 +39,11 @@ A personal site showcasing my projects with a clean, responsive design — conti
 [🔗 Live Demo](https://vivekboyinaportfolio.vercel.app/)
 
 </td>
+
 <td width="50%">
 
 ### ⏰ Digital Clock
+
 A minimal real-time digital clock — a hands-on exercise in DOM manipulation, timers, and clean UI.
 
 **Stack:** JavaScript · HTML · CSS
@@ -47,6 +51,7 @@ A minimal real-time digital clock — a hands-on exercise in DOM manipulation, t
 [🔗 Live Demo](https://vivekboyina.github.io/Digital-Clock/)
 
 </td>
+
 </tr>
 </table>
 
@@ -56,7 +61,7 @@ A minimal real-time digital clock — a hands-on exercise in DOM manipulation, t
 
 <div align="center">
 
-**Languages**
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -65,18 +70,18 @@ A minimal real-time digital clock — a hands-on exercise in DOM manipulation, t
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Tools & Tech**
+### Tools & Tech
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-10B981?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Interests**
+### Interests
 
-![AI](https://img.shields.io/badge/AI%20%26%20Automation-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Performance](https://img.shields.io/badge/Web%20Performance-orange?style=for-the-badge&logo=speedtest&logoColor=white)
-![Product](https://img.shields.io/badge/Product%20Building-6366f1?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI%20%26%20Automation-166534?style=for-the-badge&logo=openai&logoColor=white)
+![Performance](https://img.shields.io/badge/Web%20Performance-16A34A?style=for-the-badge&logo=speedtest&logoColor=white)
+![Product](https://img.shields.io/badge/Product%20Building-10B981?style=for-the-badge)
 
 </div>
 
@@ -87,8 +92,11 @@ A minimal real-time digital clock — a hands-on exercise in DOM manipulation, t
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vivekboyina/)
+
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vivekboyina/)
+
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vivekboyina)
+
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vivek_7_7)
 
 </div>
@@ -100,7 +108,9 @@ A minimal real-time digital clock — a hands-on exercise in DOM manipulation, t
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boyina-veera-venkata-vivek)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekboyinaportfolio.vercel.app/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekboyinaportfolio.vercel.app/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekboyina77@gmail.com)
 
 </div>
@@ -110,11 +120,12 @@ A minimal real-time digital clock — a hands-on exercise in DOM manipulation, t
 <div align="center">
 
 ### ⚡ Fun Fact
+
 *"I focus on building things that actually solve problems — not just tutorial projects."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:166534&height=100&section=footer"/>
 
 **Made with ❤️ by [Vivek](https://github.com/vivekboyina)**
 
