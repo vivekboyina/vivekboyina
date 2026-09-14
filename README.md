@@ -1,168 +1,132 @@
 <div align="center">
 
-# 👋 Hi, I'm Vivek Boyina
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:166534,100:10B981&height=200&section=header&text=Vivek%20Boyina&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-### `Software Developer` · `Computer Science Student` · `Builder`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=720&lines=Building+practical+software;Learning+DSA+every+day;Exploring+AI+%26+ML;Turning+ideas+into+working+projects" alt="Typing animation"/>
-
-<br/>
-
-<a href="https://github.com/vivekboyina">
-  <img src="https://img.shields.io/badge/GitHub-vivekboyina-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.codechef.com/users/vivekboyina">
-  <img src="https://img.shields.io/badge/CodeChef-vivekboyina-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef"/>
+<a href="https://vivekboyinaportfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+projects+%F0%9F%9A%80;Learning+JavaScript+%26+React+%E2%9A%A1;Turning+ideas+into+code+%F0%9F%92%BB;Always+shipping%2C+always+learning+%F0%9F%94%A5&font=Fira+Code&center=true&width=600&height=45&color=10B981&vCenter=true&size=22" alt="Typing SVG" />
 </a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 🧭 About Me
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│  > whoami                                                     │
-│                                                              │
-│  Vivek Boyina                                                │
-│  Computer Science Student                                    │
-│  Software Developer                                          │
-│                                                              │
-│  > currently                                                  │
-│    ├── Building practical applications                       │
-│    ├── Improving Data Structures & Algorithms                 │
-│    ├── Exploring AI / ML                                      │
-│    └── Learning by shipping projects                          │
-│                                                              │
-│  > philosophy                                                 │
-│    Build → Break → Debug → Learn → Build Better              │
-╰──────────────────────────────────────────────────────────────╯
+```javascript
+const vivek = {
+  role: "Full Stack Developer (in progress)",
+  currentFocus: ["JavaScript", "React", "System Design basics"],
+  goal: "Build impactful products & crack top tech opportunities",
+  philosophy: "Solve real problems, not just tutorials",
+};
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## 🚀 Featured Work
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfolio
+
+A personal site showcasing my projects with a clean, responsive design — continuously updated with the latest builds.
+
+**Stack:** HTML · CSS · JS
+
+[🔗 Live Demo](https://vivekboyinaportfolio.vercel.app/)
+
+</td>
+
+<td width="50%">
+
+### ⏰ Digital Clock
+
+A minimal real-time digital clock — a hands-on exercise in DOM manipulation, timers, and clean UI.
+
+**Stack:** JavaScript · HTML · CSS
+
+[🔗 Live Demo](https://vivekboyina.github.io/Digital-Clock/)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+## 🧰 Tech Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" alt="Languages"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Development
+### Tools & Tech
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode" alt="Development"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-10B981?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI / ML
+### Interests
 
-<img src="https://skillicons.dev/icons?i=python" alt="AI and ML"/>
-
-</div>
-
----
-
-# 📊 GitHub Activity
-
-## 🧊 3D Contribution Calendar
-
-> Generated automatically from my real GitHub contribution history.
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution calendar"/>
+![AI](https://img.shields.io/badge/AI%20%26%20Automation-166534?style=for-the-badge&logo=openai&logoColor=white)
+![Performance](https://img.shields.io/badge/Web%20Performance-16A34A?style=for-the-badge&logo=speedtest&logoColor=white)
+![Product](https://img.shields.io/badge/Product%20Building-10B981?style=for-the-badge)
 
 </div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/github-contribution-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/github-contribution-snake.svg">
-  <img src="./profile-3d-contrib/github-contribution-snake.svg" width="100%" alt="GitHub contribution snake"/>
-</picture>
-
-</div>
-
----
-
-# 📈 Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vivekboyina&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="180" alt="GitHub stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekboyina&layout=compact&hide_border=true&theme=transparent" height="180" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vivekboyina&hide_border=true&theme=transparent" width="70%" alt="GitHub streak"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **DayFlow** | Personal productivity app with task planning and persistent personal tracking | `Web` `JavaScript` |
-| **WeatherGPT** | Conversational weather experience focused on natural-language and native-language interaction | `AI` `Weather` |
-| **SmartScan** | Intelligent scanning / computer-vision oriented project | `AI` `Computer Vision` |
-
-> Project links can be added directly once the repositories are public.
-
----
-
-# 🧠 DSA & Problem Solving
+## 🏆 Coding Profiles
 
 <div align="center">
 
-<a href="https://www.codechef.com/users/vivekboyina">
-<img src="https://img.shields.io/badge/CODECHEF-vivekboyina-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vivekboyina/)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vivekboyina/)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/vivekboyina)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/vivek_7_7)
 
 </div>
 
-```text
-Data Structures       →  Learning
-Algorithms             →  Practicing
-Dynamic Programming    →  Improving
-Problem Solving        →  Consistent
-Competitive Programming→  Exploring
-```
+<br/>
 
----
-
-# 📚 Currently Learning
+## 🤝 Let's Connect
 
 <div align="center">
 
-`DSA` · `Dynamic Programming` · `Full Stack Development`
-`AI / ML` · `System Design` · `Production-ready Projects`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boyina-veera-venkata-vivek)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://vivekboyinaportfolio.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekboyina77@gmail.com)
 
 </div>
 
----
-
-# 🤝 Connect With Me
+<br/>
 
 <div align="center">
 
-<a href="https://github.com/vivekboyina">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.codechef.com/users/vivekboyina">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef" alt="CodeChef"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+### ⚡ Fun Fact
 
-<br/><br/>
+*"I focus on building things that actually solve problems — not just tutorial projects."*
 
-### `Code • Build • Learn • Repeat`
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:166534&height=100&section=footer"/>
+
+**Made with ❤️ by [Vivek](https://github.com/vivekboyina)**
 
 </div>
