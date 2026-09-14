@@ -1,0 +1,30 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "20 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: vivekboyina
+          outputs: |
+            profile-3d-contrib/github-contribution-snake.svg
+            profile-3d-contrib/github-contribution-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated images
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update contribution snake"
+          add: "profile-3d-contrib/github-contribution-snake.svg profile-3d-contrib/github-contribution-snake-dark.svg"
