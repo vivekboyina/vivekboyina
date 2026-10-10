@@ -1,0 +1,59 @@
+name: Nightly Contribution
+
+# Runs at 23:00 IST, with a 23:30 IST backup in case the first run is delayed.
+# It only commits when you have made no contributions yet today (IST).
+on:
+  schedule:
+    - cron: "30 17 * * *"   # 23:00 IST
+    - cron: "0 18 * * *"    # 23:30 IST (backup)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-writes
+  cancel-in-progress: false
+
+jobs:
+  nightly:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+      USER_LOGIN: ${{ github.repository_owner }}
+      # Must be an email verified on your GitHub account, or your
+      # ID+username@users.noreply.github.com address.
+      COMMIT_EMAIL: ${{ vars.COMMIT_EMAIL || 'vivekboyina77@gmail.com' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count today's contributions (IST)
+        id: check
+        run: |
+          TODAY=$(TZ=Asia/Kolkata date +%F)
+          FROM=$(date -u -d "TZ=\"Asia/Kolkata\" $TODAY 00:00" +%Y-%m-%dT%H:%M:%SZ)
+          TO=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          COUNT=$(gh api graphql \
+            -f login="$USER_LOGIN" -f from="$FROM" -f to="$TO" \
+            -f query='query($login:String!,$from:DateTime!,$to:DateTime!){user(login:$login){contributionsCollection(from:$from,to:$to){contributionCalendar{totalContributions}}}}' \
+            --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions' || echo 0)
+          echo "Today (IST $TODAY): $COUNT contribution(s)"
+          echo "count=${COUNT:-0}" >> "$GITHUB_OUTPUT"
+          echo "today=$TODAY" >> "$GITHUB_OUTPUT"
+
+      - name: Commit a check-in if there is nothing yet
+        if: steps.check.outputs.count == '0'
+        run: |
+          mkdir -p .activity
+          echo "- ${{ steps.check.outputs.today }} $(TZ=Asia/Kolkata date +%H:%M) IST — nightly check-in" >> .activity/log.md
+          git config user.name "Vivek Boyina"
+          git config user.email "$COMMIT_EMAIL"
+          git add .activity/log.md
+          git commit -m "chore: nightly check-in ${{ steps.check.outputs.today }}"
+          git pull --rebase
+          git push
+
+      - name: Already contributed
+        if: steps.check.outputs.count != '0'
+        run: echo "Contribution already recorded today, nothing to do."
