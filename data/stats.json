@@ -1,17 +1,17 @@
 {
   "leetcode": {
-    "solved": 750,
-    "easy": null,
-    "medium": null,
-    "hard": null
+    "solved": 794,
+    "easy": 437,
+    "medium": 342,
+    "hard": 15
   },
   "codeforces": {
-    "solved": null,
-    "rating": null,
-    "rank": null
+    "solved": 67,
+    "rating": 858,
+    "rank": "newbie"
   },
   "codechef": {
-    "rating": 1400,
-    "stars": 2
+    "rating": 1403,
+    "stars": null
   }
 }
