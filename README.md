@@ -166,7 +166,18 @@ Aditya University, Surampalem<br/><br/>
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekboyina&bg_color=0d1117&color=a78bfa&line=22d3ee&point=f472b6&area=true&area_color=312e81&title_color=a78bfa&hide_border=true&radius=12&custom_title=Vivek%27s%20Contribution%20Graph" width="100%" alt="Contribution graph"/>
+<img src="https://ghchart.rshah.org/a78bfa/vivekboyina" width="100%" alt="Contribution graph"/>
+
+</div>
+
+<div align="center">
+
+### 📊 Contribution Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vivekboyina&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekboyina&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=vivekboyina&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Contribution streak"/>
 
 </div>
 
@@ -190,7 +201,7 @@ Aditya University, Surampalem<br/><br/>
 
 <a href="https://www.linkedin.com/in/boyina-veera-venkata-vivek/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:vivekboyina77@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://x.com/vivekboyina"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://x.com/VivekBoyina07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
 </div>
 
