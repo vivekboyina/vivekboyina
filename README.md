@@ -214,6 +214,7 @@ Aditya University, Surampalem<br/><br/>
 
 <sub>Made with ❤️ by <a href="https://github.com/vivekboyina">Vivek Boyina</a></sub>
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0d1117,45:1e1b4b,100:312e81&section=footer" width="100%" alt="footer"/>
 
 </div>
