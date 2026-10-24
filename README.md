@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,45:1e1b4b,100:312e81&text=Vivek%20Boyina&fontColor=a78bfa&fontSize=64&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%E2%80%A2%20Java%20%E2%80%A2%20Backend%20%E2%80%A2%20DSA&descAlignY=62&descSize=18&animation=fadeIn" width="100%" alt="Vivek Boyina"/>
 
-<a href="https://github.com/vivekboyina">
+<a
+href="https://github.com/vivekboyina">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=42&lines=Building+reliable+backend+systems;Solving+DSA+problems+every+day;Shipping+full-stack+projects+with+React;Open+to+SDE-1+%26+internship+roles" alt="Typing animation"/>
 </a>
 
