@@ -109,14 +109,14 @@ Aditya University, Surampalem<br/><br/>
 <br/>
 <p>
   <a href="https://leetcode.com/u/vivekboyina"><img src="https://img.shields.io/badge/LeetCode-804%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117" alt="LeetCode"/></a>
-  <a href="https://www.codechef.com/users/vivekboyina"><img src="https://img.shields.io/badge/CodeChef-1403%20rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" alt="CodeChef"/></a>
+  <a href="https://www.codechef.com/users/vivekboyina"><img src="https://img.shields.io/badge/CodeChef-1369%20rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" alt="CodeChef"/></a>
   <a href="https://codeforces.com/profile/vivekboyina"><img src="https://img.shields.io/badge/Codeforces-858%20rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=1F8ACB&labelColor=0d1117" alt="Codeforces"/></a>
   <br/>
   <a href="https://www.hackerrank.com/profile/vivekboyina"><img src="https://img.shields.io/badge/HackerRank-C%2B%2B%205%E2%98%85%20%C2%B7%20SQL%205%E2%98%85-00EA64?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0d1117" alt="HackerRank"/></a>
   <a href="https://www.geeksforgeeks.org/user/vivekboyina/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0d1117" alt="GeeksforGeeks"/></a>
 </p>
 <sub>🟢 Easy 442 &nbsp;·&nbsp; 🟡 Medium 347 &nbsp;·&nbsp; 🔴 Hard 15</sub><br/>
-<sub>Auto-updated 2026-10-25 05:07 UTC</sub>
+<sub>Auto-updated 2026-10-28 18:59 UTC</sub>
 <!--CODING_END-->
 
 </div>
